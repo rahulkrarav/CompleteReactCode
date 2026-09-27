@@ -9,6 +9,7 @@ function App() {
   return(
   <>
     <h1>Welcome to react!</h1>
+    <h2>Thank You!</h2>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam fugiat cumque repellendus natus dolores, est porro amet eum ratione tenetur cum pariatur quod. Quos, facilis adipisci accusamus molestias autem corrupti.</p>
       <Home />
       <About />
